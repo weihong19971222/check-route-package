@@ -1,0 +1,15 @@
+{
+    "name": "weihong/check-route",
+    "keywords": ["framework", "laravel"],
+    "description": "route確認",
+    "license": "MIT",
+    "authors":[{
+        "name":"WeiHong-Zheng",
+        "email":"weihong19971222@gamil.com.tw"
+    }],
+    "autoload": {
+        "psr-4": {
+            "weihong\\check-route\\":"src"
+        }
+    }
+}
