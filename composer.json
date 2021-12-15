@@ -9,7 +9,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "weihong\\check-route\\":"src"
+            "Weihong\\CheckRoute\\":"src"
         }
     }
 }
