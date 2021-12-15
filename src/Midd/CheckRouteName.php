@@ -1,6 +1,5 @@
 <?php
-
-namespace App\Http\Middleware;
+namespace weihong\checkRoute\Midd;
 
 use Closure;
 use Illuminate\Http\Request;
