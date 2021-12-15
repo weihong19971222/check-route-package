@@ -1,6 +1,6 @@
-#laravel 8.x
+# laravel 8.x
 
-##Api回傳格式  
+## Api回傳格式  
 * app/http/controllers/Controller.php  
 ```php
 use Weihong\CheckRoute\ApiResponse;  
@@ -8,7 +8,7 @@ use ...,ApiResponse;
 ```
 ------------------------------------------------------  
 
-##Middleware取得路由名稱  
+## Middleware取得路由名稱  
 * app/http/Kernel.php  
 ```php
 protected $middleware = [  
