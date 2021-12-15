@@ -4,8 +4,8 @@ Api回傳格式
 #app/http/controllers/Controller.php  
 ```php
 use Weihong\CheckRoute\ApiResponse;  
-use ...,ApiResponse;  ```
-
+use ...,ApiResponse;  
+```
 ------------------------------------------------------  
 
 Middleware取得路由名稱  
