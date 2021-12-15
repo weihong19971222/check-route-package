@@ -2,8 +2,9 @@ laravel 8.x
 
 Api回傳格式  
 #app/http/controllers/Controller.php  
+```php
 use Weihong\CheckRoute\ApiResponse;  
-use ...,ApiResponse;  
+use ...,ApiResponse;  ```
 
 ------------------------------------------------------  
 
